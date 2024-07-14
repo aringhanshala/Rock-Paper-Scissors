@@ -91,6 +91,14 @@ img{
     }
 
     #msg{
-        font-size: 1.5rem;
+        font-size: 1rem;
+    }
+
+    .msg-container{
+        margin-top: 2rem;
+    }
+
+    .score-board{
+        margin-top: 1rem;
     }
 }
